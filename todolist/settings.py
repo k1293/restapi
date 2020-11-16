@@ -25,7 +25,7 @@ SECRET_KEY = 'rxp94!x+y)y08p2@4i&sku8k=4b5vhof&3h07u)wz52tth11!b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*','https://secret-sierra-81741.herokuapp.com/']
 
 
 # Application definition

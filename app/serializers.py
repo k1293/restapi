@@ -6,4 +6,4 @@ class ListSerializer(serializers.ModelSerializer):
     class Meta:
         model = List
         # fields = '__all__'
-        fields = ('task', 'created', 'status')
+        fields = ('id','task', 'created', 'status')
